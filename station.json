@@ -1,20 +1,6 @@
 {
     "station":
     [
-    {
-    "name": "WDR 4",
-    "streamURL": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/56/stream.mp3",
-        "imageURL": "https://streamurl.link/images/broadcasts/714c89b.webp",
-        "desc": "Meine Lieblingshits für Bettina, Jens",
-        "longDesc": "WDR4 Radio des Westdeutschenrundfunks"
-     },
-     {
-     "name": "Discosound Radio",
-     "streamURL": "https://disco-club-radio.stream.laut.fm/disco-club-radio",
-     "imageURL": "https://streamurl.link/images/broadcasts/d8f7934.webp",
-     "desc": "Remember the time!",
-     "longDesc": "Discosound aus den 70'er und 80'er"
-     },
      {
      "name": "Best Smooth Jazz London",
      "streamURL": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
@@ -44,26 +30,19 @@
      "longDesc": ""
      },
      {
-     "name": "BBC1",
-     "streamURL": "http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8",
-     "imageURL": "https://smapi.streamurl.link/public-broadcasting/en_GB/artwork/stations/bbc_radio_1.png",
-     "desc": "Radio BBC One",
-     "longDesc": ""
-     },
+     "name": "WDR 4",
+     "streamURL": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/56/stream.mp3",
+         "imageURL": "https://streamurl.link/images/broadcasts/714c89b.webp",
+         "desc": "Meine Lieblingshits der 80'er, 90'er und von heute",
+         "longDesc": "WDR4 Radio des Westdeutschenrundfunks"
+      },
      {
-     "name": "BBC1 Dance",
-     "streamURL": "http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8",
-     "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/BBC_Radio_1_Dance_2022.svg/500px-BBC_Radio_1_Dance_2022.svg.png",
-     "desc": "BBC1 Radio Dance",
-     "longDesc": ""
-     },
-     {
-     "name": "BBC1 Xtra",
-     "streamURL": "http://lstn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=96000",
-     "imageURL": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BBC_Radio_1Xtra_2021.svg/600px-BBC_Radio_1Xtra_2021.svg.png",
-     "desc": "BBC1 Radio Xtra",
-     "longDesc": ""
-     },
+     "name": "WDR 2",
+     "streamURL": "https://wdr-wdr2-aachenundregion.icecastssl.wdr.de/wdr/wdr2/aachenundregion/mp3/128/stream.mp3",
+         "imageURL": "https://streamurl.link/images/broadcasts/f4f8181.webp",
+         "desc": "Wir sind der Westen",
+         "longDesc": "WDR2 Radio des Westdeutschenrundfunks"
+      },
      {
      "name": "Bayern 1",
      "streamURL": "https://streams.br.de/bayern1schw_2.m3u",
@@ -148,13 +127,7 @@
      "desc": "Antenne Bayern Coffee Musik",
      "longDesc": "Unplugged und entspannt - der Coffee Music Webstream von ANTENNE BAYERN! Ruhige und entspannte Musik für alle, die unplugged Musik lieben. Der Coffee Music Stream liefert dir Songs, die perfekt zu deinem Kaffee passen. Jetzt kostenlos reinhören und genießen!!"
      },
-     {
-     "name": "Schlager Sahne",
-     "streamURL": "https://stream.antenne.de/das-schlager-karussell/stream/mp3",
-     "imageURL": "https://www.antenne.de/media/cache/3/version/7350/streamlogo_schlager_sahne_aby-v1.jpg/5bbedc425087387b46deaff69ec9f347.webp",
-     "desc": "Antenne Bayern Schlager Hits",
-     "longDesc": "Die besten Schlagerhits kostenlos hören mit ANTENNE BAYERN Schlagersahne! In diesem Webradio bekommst du die schönsten Schlagerhits. Genieße die Musik und lass dich von der guten Laune anstecken. Jetzt das Schlagerradio auf antenne.de streamen!"
-     },
+     
      {
      "name": "Cafe del Mar",
      "streamURL": "https://streams.radio.co/se1a320b47/listen",
@@ -176,20 +149,7 @@
      "desc": "100% Smooth Jazz Music from IBIZA",
      "longDesc": ""
      },
-     {
-     "name": "Studio040 Eindhoven",
-     "streamURL": "https://stream.studio040.nl/studio040.mp3",
-     "imageURL": "https://streamurl.link/images/broadcasts/d1801a0.webp",
-     "desc": "Golden Earring - Weekend Love",
-     "longDesc": ""
-     },
-     {
-     "name": "Omroep Venlo Radio Netherland",
-     "streamURL": "https://www.surfmusik.de/m3u/omroep-venlo,23263.m3u",
-     "imageURL": "https://omroepvenlo.nl/logos/OMROEP_VENLO-light.svg",
-     "desc": "Het geluid van Omroep Venlo",
-     "longDesc": "Het geluid van Omroep Venlo De klassiekers van toen, de hits van nu en het beste uit de regio"
-     },
+     
      {
      "name": "L1 Radio Limburg",
      "streamURL": "https://www.surfmusik.de/m3u/l1-radio,5927.m3u",
@@ -218,6 +178,19 @@
      "desc": "SF House Music",
      "longDesc": "Welcome to DJ Theo's Monthly Soul Deluxe SF Podcast. Each month there will be a new mix to listen and download by everyone around the world! Much Love!"
      },
+     {
+     "name": "Discosound Radio",
+     "streamURL": "https://disco-club-radio.stream.laut.fm/disco-club-radio",
+     "imageURL": "https://streamurl.link/images/broadcasts/d8f7934.webp",
+     "desc": "Remember the time!",
+     "longDesc": "Discosound aus den 70'er und 80'er"
+     },
+     {
+     "name": "Schlager Sahne",
+     "streamURL": "https://stream.antenne.de/das-schlager-karussell/stream/mp3",
+     "imageURL": "https://www.antenne.de/media/cache/3/version/7350/streamlogo_schlager_sahne_aby-v1.jpg/5bbedc425087387b46deaff69ec9f347.webp",
+     "desc": "Antenne Bayern Schlager Hits",
+     "longDesc": "Die besten Schlagerhits kostenlos hören mit ANTENNE BAYERN Schlagersahne! In diesem Webradio bekommst du die schönsten Schlagerhits. Genieße die Musik und lass dich von der guten Laune anstecken. Jetzt das Schlagerradio auf antenne.de streamen!"
+     },
     ]
 }
-
